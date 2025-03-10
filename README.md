@@ -18,7 +18,8 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/Remmy4873/news-site.git
+git clone https://github.com/Remmy4873/news-app
+
 cd news-site
 ```
 
